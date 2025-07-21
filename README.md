@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Life is too short, let's go back to good old Javascript. At least it's honest about being painful. ⚡
 
-<!--
-**DevSata/DevSata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TypeError: Cannot read property 'motivation' of undefined
+ReferenceError: sleep is not defined
+SyntaxError: Unexpected token 'deadline' in position 1
+Error: Maximum call stack size exceeded at procrastination.js:∞
 
-Here are some ideas to get you started:
+Okay, maybe TypeScript will save us with type safety... 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Type 'Burnout' is not assignable to type 'Productivity'
+Property 'vacation' does not exist on type 'Developer'
+Cannot find name 'Documentation'. Did you mean 'Procrastination'?
+Argument of type 'string' is not assignable to parameter of type 'never'
